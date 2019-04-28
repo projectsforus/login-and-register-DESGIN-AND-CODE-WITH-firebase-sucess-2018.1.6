@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525314855654",
+    "firebase_url": "https://invertible-now-124909.firebaseio.com",
+    "project_id": "invertible-now-124909",
+    "storage_bucket": "invertible-now-124909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525314855654:android:06be3e9a5f3a05ab",
+        "android_client_info": {
+          "package_name": "com.GStudio.LognReg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525314855654-njrmbkvbd5uemus272b01vm7e964p18j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9IN5eXIFru9ng3ADUsFs_5L33nqRsBHg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

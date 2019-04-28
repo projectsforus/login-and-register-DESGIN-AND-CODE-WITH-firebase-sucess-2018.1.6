@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "283820629655",
+    "firebase_url": "https://login-b1522.firebaseio.com",
+    "project_id": "login-b1522",
+    "storage_bucket": "login-b1522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283820629655:android:10294ed6e7306430",
+        "android_client_info": {
+          "package_name": "com.GStudio.Login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283820629655-3ovu0cf4v3fvm87t7e0pf4qd4v1lbsuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzunZ5yCHT77j6Kj0xCVBKwdV1miBLC1s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
